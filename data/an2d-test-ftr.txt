@@ -1,0 +1,14 @@
+Test Case =   45, Ra =     60000, Re =    75
+Test Case =   59, Ra =   1000000, Re =   150
+Test Case =    7, Ra =      3000, Re =     0
+Test Case =   50, Ra =      8000, Re =    75
+Test Case =   92, Ra =     30000, Re =   300
+Test Case =   27, Ra =    900000, Re =     0
+Test Case =  131, Ra =      7000, Re =   600
+Test Case =  137, Ra =      9000, Re =   600
+Test Case =  122, Ra =      4000, Re =   600
+Test Case =    8, Ra =     30000, Re =     0
+Test Case =  111, Ra =    900000, Re =   300
+Test Case =   16, Ra =      6000, Re =     0
+Test Case =   63, Ra =      3000, Re =   150
+Test Case =   76, Ra =     70000, Re =   150
